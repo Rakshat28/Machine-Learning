@@ -1,5 +1,5 @@
 to start with anything , first create an environment :
-conda create -p venv python==3.10 , on command prompt in VS code
+conda create -p venv python==3.12 , on command prompt in VS code
 
 venv environment will be created
 to activate :
