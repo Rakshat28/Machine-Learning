@@ -1,1 +1,21 @@
-Repo to store my practise code
+to start with anything , first create an environment :
+conda create -p venv python==3.10 , on command prompt in VS code
+
+venv environment will be created
+to activate :
+conda activate venv/
+
+now create requirements.txt and add the requirements
+
+to intall these requirements , just do :
+pip install -r requirements.txt
+
+to run .ipynb files :
+install:
+
+pip install ipykernel
+    then click on detecting kernel > choose python environment you created locally
+
+
+
+
